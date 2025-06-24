@@ -1,0 +1,171 @@
+{
+    "lists": [
+      {
+        "id": "901609224761",
+        "name": "Current Sprint",
+        "type": "sprint",
+        "enabled": true,
+        "description": "Active sprint tasks"
+      },
+      {
+        "id": "901607757222",
+        "name": "Bug Tracker",
+        "type": "bug",
+        "enabled": true,
+        "description": "Production issues and bug fixes"
+      },
+      {
+        "id": "901607756124",
+        "name": "Feature Backlog",
+        "type": "feature",
+        "enabled": true,
+        "description": "Upcoming features and enhancements"
+      },
+      {
+        "id": "901608734745",
+        "name": "Tech Team - ExamX - Sprints - Sprint 47",
+        "type": "sprint",
+        "enabled": true,
+        "space": "Tech Team",
+        "folder": "ExamX - Sprints",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:40.266380"
+      },
+      {
+        "id": "901608907710",
+        "name": "Tech Team - ExamX - Sprints - Sprint 48",
+        "type": "sprint",
+        "enabled": true,
+        "space": "Tech Team",
+        "folder": "ExamX - Sprints",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:40.266392"
+      },
+      {
+        "id": "901609062872",
+        "name": "Tech Team - ExamX - Sprints - Sprint 49",
+        "type": "sprint",
+        "enabled": true,
+        "space": "Tech Team",
+        "folder": "ExamX - Sprints",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:40.266394"
+      },
+      {
+        "id": "901609224688",
+        "name": "Tech Team - ExamX - Sprints - Sprint 50",
+        "type": "sprint",
+        "enabled": true,
+        "space": "Tech Team",
+        "folder": "ExamX - Sprints",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:40.266395"
+      },
+      {
+        "id": "901603163262",
+        "name": "Tech Team - PlaceX - Sprint - Sprint 1 (8/7/24 - 15/7/24)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "Tech Team",
+        "folder": "PlaceX - Sprint",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:41.463258"
+      },
+      {
+        "id": "901608710891",
+        "name": "ExamX - Sprint Folder - Sprint 5 (5/26 - 6/1)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "ExamX",
+        "folder": "Sprint Folder",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:42.656810"
+      },
+      {
+        "id": "901608869032",
+        "name": "ExamX - Sprint Folder - Sprint 6 (6/2 - 6/8)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "ExamX",
+        "folder": "Sprint Folder",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:42.656825"
+      },
+      {
+        "id": "901609062953",
+        "name": "ExamX - Sprint Folder - Sprint 7 (6/9 - 6/15)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "ExamX",
+        "folder": "Sprint Folder",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:42.656827"
+      },
+      {
+        "id": "901608076327",
+        "name": "LearnX - Sprint Folder - Sprint 2 (4/28 - 5/11)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "LearnX",
+        "folder": "Sprint Folder",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:45.142489"
+      },
+      {
+        "id": "901608391023",
+        "name": "LearnX - Sprint Folder - Sprint 3 (5/12 - 5/25)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "LearnX",
+        "folder": "Sprint Folder",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:45.142522"
+      },
+      {
+        "id": "901608734813",
+        "name": "LearnX - Sprint Folder - Sprint 4 (5/26 - 6/8)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "LearnX",
+        "folder": "Sprint Folder",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:45.142525"
+      },
+      {
+        "id": "901609062934",
+        "name": "LearnX - Sprint Folder - Sprint 5 (6/9 - 6/22)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "LearnX",
+        "folder": "Sprint Folder",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:45.142527"
+      },
+      {
+        "id": "901609105216",
+        "name": "ExamX - Test - Sprint Details - Sprint 1 (6/16 - 6/29)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "ExamX",
+        "folder": "Test - Sprint Details",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:48.051510"
+      },
+      {
+        "id": "901609105282",
+        "name": "ExamX - Test - Sprint Details - Sprint 2 (6/30 - 7/13)",
+        "type": "sprint",
+        "enabled": true,
+        "space": "ExamX",
+        "folder": "Test - Sprint Details",
+        "discovered": true,
+        "discovery_date": "2025-06-22T01:25:48.051532"
+      }
+    ],
+    "discovery_settings": {
+      "include_folders": ["Sprints", "Bugs", "Features", "Sprint", "Bug", "Feature"],
+      "exclude_folders": ["ManageX", "Template", "Archived", "Completed", "Done"],
+      "include_list_names": ["Sprint", "Bug", "Feature", "Backlog"],
+      "exclude_list_names": ["ManageX", "Template", "Archived", "Completed", "Done"]
+    }
+  } 

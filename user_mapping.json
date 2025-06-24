@@ -1,0 +1,34 @@
+{
+  "user_mappings": {
+    "Ayush Chittranshi": "U082C86AXS8",
+    "Balamaniraja M": "U074SNP77ST",
+    "Dhilipan": "U03MLBBA58S",
+    "Dhinesh Kumar": "U04L4KDC6TF",
+    "Dinesh Kumar": "U03MNP6KBQC",
+    "GOKUL GD": "U07BTQES5UJ",
+    "Govarthanan": "U03MLBBA58S",
+    "Hariharen RS": "U06NPK7E1BQ",
+    "Jai Kumar": "U06CZE0J42K",
+    "Kannan G": "U07Q8RNDK28",
+    "Kannan N": "U03MHH2QY3X",
+    "Mullai": "U05UZA4K37T",
+    "P Santhosh": "U05GWLC091D",
+    "PetchiMuthu": "U05F6PL8CUV",
+    "Prabhu": "U077ALA04LA",
+    "Priya": "U03M5SKMZV5",
+    "RajKumar Ramasamy": "U06LZG2CTPD",
+    "Rajkumaran N": "U076C74HFNY",
+    "Renugadevi": "U07DBP1UG49",
+    "Sathish Kumar T.M.": "U06PZ6S6UJK",
+    "Thangaraj K": "U05BAS2DQ73",
+    "Vignesh G": "U06MQSVF1A7",
+    "Vignesh S": "U06THV1AZQC",
+    "Vigneshkumar M": "U077455LF2S",
+    "Yogeshraj": "U03MDP0TKFY"
+  },
+  "default_mention": "@channel",
+  "fallback_behavior": "use_clickup_name"
+} 
+
+
+
