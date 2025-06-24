@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 def get_list_config():
     """Get list configuration from environment or config file"""
     # Try to load from config file first
-    config_file = os.getenv('CLICKUP_CONFIG_FILE', 'clickup_config.json')
+    config_file = 'clickup_config.json'
     if os.path.exists(config_file):
         logger.info(f"📁 Loading ClickUp configuration from {config_file}")
         try:
@@ -40,7 +40,7 @@ def discover_sprints(team_id: str, api_key: str) -> List[Dict]:
     headers = {"Authorization": api_key}
     
     # Load filtering configuration
-    config_file = os.getenv('CLICKUP_CONFIG_FILE', 'clickup_config.json')
+    config_file = 'clickup_config.json'
     filter_settings = {}
     if os.path.exists(config_file):
         try:
@@ -165,7 +165,7 @@ def is_sprint_folder(folder_name: str) -> bool:
 
 def update_config_with_discovered_lists(discovered_lists: List[Dict]):
     """Update configuration with newly discovered lists"""
-    config_file = os.getenv('CLICKUP_CONFIG_FILE', 'clickup_config.json')
+    config_file = 'clickup_config.json'
     
     try:
         # Load existing config

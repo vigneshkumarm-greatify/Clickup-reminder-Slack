@@ -20,7 +20,7 @@ load_dotenv()
 
 def load_config():
     """Load current configuration"""
-    config_file = os.getenv('CLICKUP_CONFIG_FILE', 'clickup_config.json')
+    config_file = 'clickup_config.json'
     if os.path.exists(config_file):
         with open(config_file, 'r') as f:
             return json.load(f)
@@ -28,7 +28,7 @@ def load_config():
 
 def save_config(config):
     """Save configuration to file"""
-    config_file = os.getenv('CLICKUP_CONFIG_FILE', 'clickup_config.json')
+    config_file = 'clickup_config.json'
     with open(config_file, 'w') as f:
         json.dump(config, f, indent=2)
     print(f"✅ Configuration saved to {config_file}")

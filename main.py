@@ -37,7 +37,7 @@ def run_bot():
     try:
         # Validate environment variables
         required_vars = ['OPENAI_API_KEY', 'SLACK_BOT_TOKEN', 'SLACK_CHANNEL_ID', 'CLICKUP_API_KEY']
-        optional_vars = ['CLICKUP_LIST_ID', 'CLICKUP_TEAM_ID', 'CLICKUP_CONFIG_FILE']
+        optional_vars = ['CLICKUP_LIST_ID', 'CLICKUP_TEAM_ID']
         
         missing_vars = [var for var in required_vars if not os.getenv(var)]
         
